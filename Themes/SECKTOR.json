@@ -1,6 +1,6 @@
 {
   "__JSON__": true,
-  "AUTHOR": "𝙿𝚁𝙰𝙱𝙰𝚃𝙷",
+  "AUTHOR": "ᴊᴀɴɪʏᴀ",
   "LANGUAGE": "Sinhala",
   "LANGCODE": "si",
   "STRINGS": {
@@ -10,7 +10,7 @@
           "UPDATED_LOCAL": "*Successfully Updated!*"
       },
       "global": {
-          "botName": "*PRABATH-MD-WHATSAPP-BOT*",
+          "botName": "*ᴊᴀɴɪʏᴀ-ᴍᴅ ᴡᴡᴀᴛsᴀᴘᴘ ʙᴏᴛ*",
           "body": "𝑊ℎ𝑎𝑡𝑠𝑎𝑝𝑝 𝐵𝑜𝑡",
           "greet2" : ".",
           "pic1": "https://i.ibb.co/7YGn5qS/20230305-135924.jpg",
