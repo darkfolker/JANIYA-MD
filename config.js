@@ -7,16 +7,16 @@ global.owner = process.env.OWNER_NUMBER.split(",")
 global.mongodb = process.env.MONGODB_URI || "Enter-MongoURI-HERE"
 global.port= process.env.PORT || 5000
 global.email = 'sam@sec.live'
-global.github = 'https://github.com/prabathLK/PRABATH-MD'
+global.github = 'https://github.com/darkfolker/JANIYA-MD'
 global.location = 'Sultanpur IN'
 global.gurl = 'https://instagram.com/' // add your username
-global.sudo = process.env.SUDO || '94762280384'
+global.sudo = process.env.SUDO || '94741467999'
 global.devs = '94762280384';
-global.website = 'https://github.com/prabathLK/PRABATH-MD' //wa.me/+94762280384
+global.website = 'https://github.com/darkfolker/JANIYA-MD' //wa.me/+94741467999
 global.THUMB_IMAGE = process.env.THUMB_IMAGE || 'https://i.imgur.com/H062oEI.jpeg'
 module.exports = {
-  botname: process.env.BOT_NAME || '𝐒𝐞𝐜𝐤𝐭𝐨𝐫 𝐁𝐨𝐭𝐭𝐨',
-  ownername:process.env.OWNER_NAME || 'PRABATH',
+  botname: process.env.BOT_NAME || 'ᴊᴀɴɪʏᴀ ᴍᴅ',
+  ownername:process.env.OWNER_NAME || 'JANIYA',
   sessionName: process.env.SESSION_ID || 'PUT-HERE',
   author: process.env.PACK_INFO.split(";")[0] || 'author', 
   auto_read_status : process.env.AUTO_READ_STATUS || 'false',
