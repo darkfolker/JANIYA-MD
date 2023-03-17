@@ -1,6 +1,6 @@
 {
 
-  "name": "Prabath-Md",
+  "name": "Janiya-Md",
 
   "description": "A Whatsapp md bot built in NodeJs to make experience better",
 
@@ -106,7 +106,7 @@
 
     "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
 
-       "value": "94762280384"
+       "value": "94760618082"
 
   },
 
@@ -172,7 +172,7 @@
 
     "description": "Put packname;authorname.",
 
-     "value": "PRABATH-MD🎊;𝚙𝚛𝚊𝚋𝚊𝚝𝚑✅",
+     "value": "JANIYA-MD🎊;ᴊᴀɴɪʏᴀ✅",
 
      "required": false 
 
