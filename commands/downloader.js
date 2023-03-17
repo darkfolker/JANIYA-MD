@@ -87,7 +87,7 @@ cmd({
 
 
 
-   ● *MADE BY PRABATH* ✅
+   ● *MADE BY JANIYA* ✅
 
 ⦿. *REQUEST BY:* ${citel.pushName}
 
@@ -101,7 +101,7 @@ cmd({
 
                     rowId: `${prefix}ytmp4 ${i.url}`,
 
-                    description: `*PRABATH-MD-WA-BOT* / ${i.timestamp}`
+                    description: `*JANIYA-MD-WA-BOT* / ${i.timestamp}`
 
                 })
 
@@ -323,7 +323,7 @@ cmd({
 
 
 
-    ● *MADE BY PRABATH* ✅
+    ● *MADE BY JANIYA* ✅
 
 ⦿. *REQUEST BY:* ${citel.pushName}
 
@@ -376,7 +376,7 @@ cmd({
                 listSerch.push({
                     title: i.title,
                     rowId: `${prefix}ytssearch ${i.url}`,
-                    description: `*PRABATH-MD-WA-BOT* / ${i.timestamp}`
+                    description: `*JANIYA-MD-WA-BOT* / ${i.timestamp}`
                 })
             }
             const sections = [
@@ -447,7 +447,7 @@ cmd({
                         jpegThumbnail: log0,
                         mimetype: 'video/mp4',
                         fileName: `${titleYt}.mp4`,
-                        caption: `● *ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴘʀᴀʙᴀᴛʜ-ᴍᴅ*`,
+                        caption: `● *ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴊᴀɴɪʏᴀ-ᴍᴅ*`,
                         headerType: 4,
                     }
                     return Void.sendMessage(citel.chat, buttonMessage, { quoted: citel })
@@ -512,7 +512,7 @@ cmd({
                         jpegThumbnail: log0,
                         mimetype: 'audio/mp4',
                         fileName: `${titleYt}.mp4`,
-                        caption: `● *ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴘʀᴀʙᴀᴛʜ-ᴍᴅ*`,
+                        caption: `● *ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴊᴀɴɪʏᴀ-ᴍᴅ*`,
                         headerType: 4,
                     }
                     return Void.sendMessage(citel.chat, buttonMessage, { quoted: citel })
