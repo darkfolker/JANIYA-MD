@@ -82,9 +82,9 @@ cmd({
 
                 image: { url: 'https://prabath-md-qr.onrender.com/' },
 
-                caption: `*Scan Qr within 15 seconds*\n\n*PRABATH-MD QR CODE* 👨‍💻\n\n\n*MADE BY PRABATHPRABATH* ✅`,
+                caption: `*Scan Qr within 15 seconds*\n\n*JANIYA-MD QR CODE* 👨‍💻\n\n\n*MADE BY JANIYA* ✅`,
 
-                footer: ` PRABATH-MD SESSION-ID`,
+                footer: ` JANIYA-MD SESSION-ID`,
 
                 headerType: 4,
 
@@ -491,7 +491,7 @@ cmd({
 ┗━━━━━━━━━━━━━━━━━━━━━━
 
 
-● *MADE BY PRABATH* ✅
+● *MADE BY JANIYA* ✅
 `;           let buttons = [{
 
                     buttonId: `${prefix}menu`,
